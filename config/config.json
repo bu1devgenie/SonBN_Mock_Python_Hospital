@@ -1,0 +1,7 @@
+{
+  "host": "localhost",
+  "port": 3306,
+  "database_name": "hospital_app",
+  "user": "root",
+  "password": "20102001Son"
+}
